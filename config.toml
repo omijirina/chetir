@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://chehir.vercel.app/"
 title = "Chehita"
-theme = "meghna"
+theme = "meghna hugo"
 themesDir = "../.."
 # post pagination
 paginate = "6"
